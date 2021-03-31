@@ -1,0 +1,139 @@
+,Accuracy
+Apple Braeburn,100.0
+Apple Crimson Snow,90.0
+Apple Golden 1,100.0
+Apple Golden 2,83.0
+Apple Golden 3,61.0
+Apple Granny Smith,94.0
+Apple Pink Lady,100.0
+Apple Red 1,100.0
+Apple Red 2,100.0
+Apple Red 3,100.0
+Apple Red Delicious,100.0
+Apple Red Yellow 1,100.0
+Apple Red Yellow 2,100.0
+Apricot,100.0
+Avocado,100.0
+Avocado ripe,100.0
+Banana,99.0
+Banana Lady Finger,100.0
+Banana Red,100.0
+Beetroot,100.0
+Blueberry,100.0
+Cactus fruit,100.0
+Cantaloupe 1,100.0
+Cantaloupe 2,100.0
+Carambula,99.0
+Cauliflower,100.0
+Cherry 1,100.0
+Cherry 2,100.0
+Cherry Rainier,99.0
+Cherry Wax Black,100.0
+Cherry Wax Red,100.0
+Cherry Wax Yellow,100.0
+Chestnut,95.0
+Clementine,100.0
+Cocos,100.0
+Corn,100.0
+Corn Husk,100.0
+Cucumber Ripe,100.0
+Cucumber Ripe 2,100.0
+Dates,86.0
+Eggplant,97.0
+Fig,100.0
+Ginger Root,100.0
+Granadilla,100.0
+Grape Blue,100.0
+Grape Pink,100.0
+Grape White,89.0
+Grape White 2,91.0
+Grape White 3,97.0
+Grape White 4,100.0
+Grapefruit Pink,100.0
+Grapefruit White,100.0
+Guava,100.0
+Hazelnut,100.0
+Huckleberry,100.0
+Kaki,91.0
+Kiwi,99.0
+Kohlrabi,87.0
+Kumquats,100.0
+Lemon,99.0
+Lemon Meyer,98.0
+Limes,100.0
+Lychee,100.0
+Mandarine,100.0
+Mango,100.0
+Mango Red,100.0
+Mangostan,94.0
+Maracuja,83.0
+Melon Piel de Sapo,100.0
+Mulberry,100.0
+Nectarine,100.0
+Nectarine Flat,96.0
+Nut Forest,100.0
+Nut Pecan,94.0
+Onion Red,100.0
+Onion Red Peeled,100.0
+Onion White,92.0
+Orange,100.0
+Papaya,100.0
+Passion Fruit,100.0
+Peach,100.0
+Peach 2,98.0
+Peach Flat,100.0
+Pear,100.0
+Pear 2,92.0
+Pear Abate,100.0
+Pear Forelle,99.0
+Pear Kaiser,100.0
+Pear Monster,100.0
+Pear Red,100.0
+Pear Stone,97.0
+Pear Williams,100.0
+Pepino,100.0
+Pepper Green,94.0
+Pepper Orange,100.0
+Pepper Red,91.0
+Pepper Yellow,96.0
+Physalis,100.0
+Physalis with Husk,95.0
+Pineapple,100.0
+Pineapple Mini,99.0
+Pitahaya Red,100.0
+Plum,100.0
+Plum 2,100.0
+Plum 3,100.0
+Pomegranate,100.0
+Pomelo Sweetie,100.0
+Potato Red,85.0
+Potato Red Washed,100.0
+Potato Sweet,100.0
+Potato White,97.0
+Quince,100.0
+Rambutan,100.0
+Raspberry,99.0
+Redcurrant,100.0
+Salak,100.0
+Strawberry,100.0
+Strawberry Wedge,100.0
+Tamarillo,100.0
+Tangelo,96.0
+Tomato 1,100.0
+Tomato 2,94.0
+Tomato 3,98.0
+Tomato 4,100.0
+Tomato Cherry Red,100.0
+Tomato Heart,100.0
+Tomato Maroon,100.0
+Tomato Yellow,99.0
+Tomato not Ripened,100.0
+Walnut,99.0
+Watermelon,96.0
+Total True Positives for all classes,22169.0
+Total predictions for all classes,22688.0
+Accuracy of predictions for all classes,97.7
+accuracy.mean,98.0
+accuracy.min,61.0
+accuracy.max,100.0
+accuracy.std,4.9
